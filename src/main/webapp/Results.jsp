@@ -11,7 +11,7 @@
 <% int n = (Integer)request.getAttribute("sum"); %>
 
 <h1><%=n %></h1>
-//
+<h1>Hi</h1>
 <a href="index.jsp">index</a>
 </body>
 </html>
